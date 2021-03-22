@@ -10,7 +10,7 @@ I'm Mayowa. You see I could go on about how I'm passionate about technolonogy, t
 - 😄 Pronouns: He/Ro
 - ⚡ Fun fact: I have a ridiculous sense of humor according to a survery I carried out on 1 person including myself.
 
-👨🏻‍💻 Languages and Tools<br />
+👨🏻‍💻 Languages and Tools<br /><br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -21,5 +21,5 @@ I'm Mayowa. You see I could go on about how I'm passionate about technolonogy, t
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-📫 How to reach me:<br />
+📫 How to reach me:<br /><br />
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/unorthodev)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/mayowa-ojo-39394b137/)  &nbsp; <a href="mailto:mayowaojo.e@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
