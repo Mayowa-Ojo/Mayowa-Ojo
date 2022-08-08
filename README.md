@@ -3,6 +3,8 @@
 I'm a Software Engineer interested in building high impact products. Sometimes I write.
 
 #### :memo: Recent Articles
+- [How to automate API tests with Postman](https://blog.logrocket.com/how-automate-api-tests-postman/)
+- [React command palette with Tailwind CSS and Headless UI](https://blog.logrocket.com/react-command-palette-tailwind-css-headless-ui/)
 - [Building a rich text editor with Lexical and React](https://blog.logrocket.com/build-rich-text-editor-lexical-react/)
 - [Introduction to SQLBoiler: Go framework for ORMs](https://blog.logrocket.com/introduction-sqlboiler-go-framework-orms/)
 - [Postgres and Strapi setup](https://strapi.io/blog/postgre-sql-and-strapi-setup)
